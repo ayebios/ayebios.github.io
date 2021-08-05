@@ -5,7 +5,7 @@ hidden: true
 title: AyeBIOS™ 
 header:
   overlay_color: "#4d2e00"
-  overlay_image: https://upload.wikimedia.org/wikipedia/commons/e/ed/Sega-Saturn-US-Motherboard-M1-03.jpg
+  overlay_image: /assets/images/circuitimageac.png
   actions:
     - label: "<i class='fas fa-fw fa-handshake'></i> Join us"
       url: "/join-us/"
